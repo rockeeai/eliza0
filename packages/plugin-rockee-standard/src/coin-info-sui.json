@@ -1,0 +1,22 @@
+[
+
+    {
+      "objectId": "0x9258181f5ceac8dbffb7030890243caed69a9599d2886d957a9cb7656af3bdb3",
+      "type": "0x2::sui::SUI",
+      "decimals": 9,
+      "symbol": "SUI",
+      "name": "Sui",
+      "iconUrl": "https://strapi-dev.scand.app/uploads/sui_c07df05f00.png",
+      "verified": true
+    },
+    
+    {
+
+      "type": "0xb4bc93ad1a07fe47943fc4d776fed31ce31923acb5bc9f92d2cab14d01fc06a4::ROCK::ROCK",
+      "decimals": 6,
+      "symbol": "ROCK",
+      "name": "Rockee AI",
+      "iconUrl":"https://rockee.ai/images/logo.png",
+      "verified":true
+    }
+  ]
